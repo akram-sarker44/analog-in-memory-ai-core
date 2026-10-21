@@ -1,4 +1,5 @@
 # Ultra-Low-Power Analog In-Memory AI Computing Core
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23543959.svg)](https://doi.org/10.5281/zenodo.23543959)
 **Author:** Md. Akram Sarker  
 **Affiliations:** 
 - Department of Computer Science & Engineering, Varendra University, Rajshahi, Bangladesh
